@@ -192,7 +192,7 @@ html, body {
 }
 @media only screen and (max-width: 1024px) {
     .slider {
-        top: 50%;
+        top: 30%;
     }
     .card {
         transform: rotateY(calc((var(--position) - 1) * (360 / var(--quantity)) * 1deg)) translateZ(350px) scale(0.75);
@@ -222,7 +222,7 @@ html, body {
 }
 @media only screen and (max-width: 660px) {
     .slider {
-        top: 10%;
+        top: 20%;
     }
     .card {
         transform: rotateY(calc((var(--position) - 1) * (360 / var(--quantity)) * 1deg)) translateZ(35vw) scale(0.5);
@@ -233,7 +233,7 @@ html, body {
         scale: 0.5;
     }
     .content {
-        bottom: 30%;
+        bottom: 20%;
     }
     .heading {
         font-size: 40px;
