@@ -203,7 +203,7 @@ html, body {
         scale: 0.75;
     }
     .content {
-        bottom: 10px;
+        bottom: 50%;
     }
     .heading {
         font-size: 70px;
@@ -233,7 +233,7 @@ html, body {
         scale: 0.5;
     }
     .content {
-        bottom: 10px;
+        bottom: 60%;
     }
     .heading {
         font-size: 40px;
